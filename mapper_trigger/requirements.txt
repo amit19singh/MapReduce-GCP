@@ -1,0 +1,4 @@
+flask<3.0,>=1.0
+google-cloud-pubsub
+google-cloud-firestore
+google-cloud-storage
